@@ -1,2 +1,1 @@
-# Ultrasonic Distance Sensor Project STM8 codes
- Intern Project 
+Software and hardware made by me.
